@@ -1,2 +1,2 @@
 # GraphDroid
-Implementation of paper "GraphDroid: Win-Win between Accuracy and Robustness for Android Malware Detection" (submitting).
+Implementation of paper "GraphDroid: More Robust Android Malware Detection against Adversarial Attacks" (submitting).
